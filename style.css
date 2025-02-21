@@ -1,0 +1,29 @@
+* {
+  font-size: 25px;
+}
+
+body {
+  background-color: rgb(186, 196, 196);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h2 {
+  text-align: center;
+}
+
+input {
+  background-color: rgb(231, 222, 222);
+  display: flex;
+  justify-self: center;
+}
+
+button {
+  margin-top: 30px;
+  margin-right: 130px;
+  display: flex;
+  justify-self: end;
+}
